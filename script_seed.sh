@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 for ((i = 40; i < 50; i++))
 do
     current_time=`date +%Y%m%d-%H%M%S`
